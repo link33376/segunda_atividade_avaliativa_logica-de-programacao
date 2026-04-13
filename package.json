@@ -1,0 +1,12 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Prova.js",
+  "scripts": {
+    "start": "node Prova.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
