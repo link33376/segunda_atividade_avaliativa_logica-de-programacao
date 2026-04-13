@@ -30,3 +30,5 @@ console.log("Os melhores jogos, segundo a equipe 4:");
 
  }
 jogos(); 
+
+//equipe 4: Rodrigo Campos, Gean Carlos e Blenda kettlen.
