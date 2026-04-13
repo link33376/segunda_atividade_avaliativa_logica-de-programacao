@@ -1,0 +1,24 @@
+{
+  "name": "segunda_atividade_avaliativa_logica-de-programacao",
+  "version": "1.0.0",
+  "description": "1 -  função com if e else que chame while para calcular a média de 5 notas, com nota (0 a 10). 7 5",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantosDavid-Dev/segunda_atividade_avaliativa_logica-de-programacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SantosDavid-Dev/segunda_atividade_avaliativa_logica-de-programacao/issues"
+  },
+  "homepage": "https://github.com/SantosDavid-Dev/segunda_atividade_avaliativa_logica-de-programacao#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
